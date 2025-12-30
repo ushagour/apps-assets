@@ -34,6 +34,85 @@
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
       "category": "desserts"      
+    },
+    {
+      "name": "Tiramisu",
+      "price": 5.99,
+      "description": "An Italian dessert consisting of layers of coffee-soaked ladyfingers and a rich creamy mixture.",
+      "image": "tiramisu.jpg",
+      "category": "desserts"      
+    },
+      {
+      "name": "Chicken Tagine",
+      "price": 55.00,
+      "description": "Traditional Moroccan chicken tagine cooked with preserved lemon, olives, onions, and aromatic spices.",
+      "image": "chickenTagine.jpg",
+      "category": "mains"
+    },
+    {
+      "name": "Beef Tagine with Prunes",
+      "price": 65.00,
+      "description": "Slow-cooked beef tagine served with sweet prunes, almonds, and a blend of Moroccan spices.",
+      "image": "beefTaginePrunes.jpg",
+      "category": "mains"
+    },
+    {
+      "name": "Couscous with Seven Vegetables",
+      "price": 60.00,
+      "description": "Classic Moroccan couscous served with steamed semolina, chickpeas, and seven seasonal vegetables.",
+      "image": "couscousSevenVeg.jpg",
+      "category": "mains"
+    },
+    {
+      "name": "Harira Soup",
+      "price": 18.00,
+      "description": "Traditional Moroccan soup made with tomatoes, lentils, chickpeas, herbs, and spices.",
+      "image": "harira.jpg",
+      "category": "starters"
+    },
+    {
+      "name": "Zaalouk",
+      "price": 15.00,
+      "description": "Smoky eggplant and tomato salad seasoned with garlic, olive oil, and Moroccan spices.",
+      "image": "zaalouk.jpg",
+      "category": "starters"
+    },
+    {
+      "name": "Briouats",
+      "price": 22.00,
+      "description": "Crispy Moroccan pastries filled with spiced minced meat and herbs.",
+      "image": "briouats.jpg",
+      "category": "starters"
+    },
+    {
+      "name": "Moroccan Mint Tea",
+      "price": 8.00,
+      "description": "Traditional green tea infused with fresh mint and sugar.",
+      "image": "mintTea.jpg",
+      "category": "drinks"
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "price": 10.00,
+      "description": "Freshly squeezed Moroccan oranges, served chilled.",
+      "image": "orangeJuice.jpg",
+      "category": "drinks"
+    },
+    {
+      "name": "Chebakia",
+      "price": 12.00,
+      "description": "Traditional Moroccan sesame cookie fried and coated with honey.",
+      "image": "chebakia.jpg",
+      "category": "desserts"
+    },
+    {
+      "name": "Sellou",
+      "price": 14.00,
+      "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
+      "image": "sellou.jpg",
+      "category": "desserts"
     }
   ]
 }
+
+
