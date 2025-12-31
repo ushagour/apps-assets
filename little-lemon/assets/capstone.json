@@ -111,6 +111,13 @@
       "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
       "image": "Sellou.jpg",
       "category": "desserts"
+    },
+    {
+      "name": "test",
+      "price": 14.00,
+      "description": "test.",
+      "image": "test.jpg",
+      "category": "desserts"
     }
   ]
 }
