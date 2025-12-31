@@ -81,7 +81,7 @@
       "name": "Briouats",
       "price": 22.00,
       "description": "Crispy Moroccan pastries filled with spiced minced meat and herbs.",
-      "image": "briouats.jpg",
+      "image": "Briouats.jpg",
       "category": "starters"
     },
     {
@@ -102,14 +102,14 @@
       "name": "Chebakia",
       "price": 12.00,
       "description": "Traditional Moroccan sesame cookie fried and coated with honey.",
-      "image": "chebakia.jpg",
+      "image": "Chebakia.jpg",
       "category": "desserts"
     },
     {
       "name": "Sellou",
       "price": 14.00,
       "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
-      "image": "sellou.jpg",
+      "image": "Sellou.jpg",
       "category": "desserts"
     }
   ]
