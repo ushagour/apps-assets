@@ -1,116 +1,196 @@
 {
   "menu": [
     {
+      "id": 1,
       "name": "Greek Salad",
       "price": 12.99,
       "description": "Our delicious salad is served with Feta cheese and peeled cucumber. Includes tomatoes, onions, olives, salt and oregano in the ingredients.",
       "image": "greekSalad.jpg",
-      "category": "starters"
+      "category": "starters",
+      "rating": 4.7,
+      "prepareTime": "10 mins",
+      "available": true,
+      "tags": ["vegetarian", "healthy", "fresh"]
     },
     {
+      "id": 2,
       "name": "Bruschetta",
       "price": 7.99,
       "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
       "image": "bruschetta.jpg",
-      "category": "starters"
+      "category": "starters",
+      "rating": 4.5,
+      "prepareTime": "8 mins",
+      "available": true,
+      "tags": ["vegetarian", "italian", "bread"]
     },
     {
+      "id": 3,
       "name": "Grilled Fish",
       "price": 20.00,
       "description": "Fantastic grilled fish seasoned with salt.",
       "image": "grilledFish.jpg",
-      "category": "mains"
+      "category": "mains",
+      "rating": 4.8,
+      "prepareTime": "20 mins",
+      "available": true,
+      "tags": ["seafood", "grilled", "healthy"]
     },
     {
+      "id": 4,
       "name": "Pasta",
       "price": 6.99,
       "description": "Delicious pasta for your delight.",
       "image": "pasta.jpg",
-      "category": "mains"      
+      "category": "mains",
+      "rating": 4.4,
+      "prepareTime": "12 mins",
+      "available": true,
+      "tags": ["italian", "vegetarian", "comfort-food"]
     },
     {
+      "id": 5,
       "name": "Lemon Dessert",
       "price": 4.99,
       "description": "You can't go wrong with this delicious lemon dessert!",
       "image": "lemonDessert.jpg",
-      "category": "desserts"      
+      "category": "desserts",
+      "rating": 4.6,
+      "prepareTime": "5 mins",
+      "available": true,
+      "tags": ["sweet", "citrus", "light"]
     },
     {
+      "id": 6,
       "name": "Tiramisu",
       "price": 5.99,
       "description": "An Italian dessert consisting of layers of coffee-soaked ladyfingers and a rich creamy mixture.",
       "image": "tiramisu.jpg",
-      "category": "desserts"      
+      "category": "desserts",
+      "rating": 4.9,
+      "prepareTime": "5 mins",
+      "available": true,
+      "tags": ["italian", "coffee", "rich", "vegetarian"]
     },
-      {
+    {
+      "id": 7,
       "name": "Chicken Tagine",
       "price": 55.00,
       "description": "Traditional Moroccan chicken tagine cooked with preserved lemon, olives, onions, and aromatic spices.",
       "image": "chickenTagine.jpg",
-      "category": "mains"
+      "category": "mains",
+      "rating": 4.8,
+      "prepareTime": "35 mins",
+      "available": true,
+      "tags": ["moroccan", "spiced", "traditional", "slow-cooked"]
     },
     {
+      "id": 8,
       "name": "Beef Tagine with Prunes",
       "price": 65.00,
       "description": "Slow-cooked beef tagine served with sweet prunes, almonds, and a blend of Moroccan spices.",
       "image": "beefTaginePrunes.jpg",
-      "category": "mains"
+      "category": "mains",
+      "rating": 4.9,
+      "prepareTime": "40 mins",
+      "available": true,
+      "tags": ["moroccan", "beef", "sweet-savory", "premium"]
     },
     {
+      "id": 9,
       "name": "Couscous with Seven Vegetables",
       "price": 60.00,
       "description": "Classic Moroccan couscous served with steamed semolina, chickpeas, and seven seasonal vegetables.",
       "image": "couscousSevenVeg.jpg",
-      "category": "mains"
+      "category": "mains",
+      "rating": 4.7,
+      "prepareTime": "25 mins",
+      "available": true,
+      "tags": ["moroccan", "vegetarian", "healthy", "traditional"]
     },
     {
+      "id": 10,
       "name": "Harira Soup",
       "price": 18.00,
       "description": "Traditional Moroccan soup made with tomatoes, lentils, chickpeas, herbs, and spices.",
       "image": "harira.jpg",
-      "category": "starters"
+      "category": "starters",
+      "rating": 4.6,
+      "prepareTime": "20 mins",
+      "available": true,
+      "tags": ["moroccan", "soup", "traditional", "warm"]
     },
     {
+      "id": 11,
       "name": "Zaalouk",
       "price": 15.00,
       "description": "Smoky eggplant and tomato salad seasoned with garlic, olive oil, and Moroccan spices.",
       "image": "zaalouk.jpg",
-      "category": "starters"
+      "category": "starters",
+      "rating": 4.5,
+      "prepareTime": "15 mins",
+      "available": true,
+      "tags": ["moroccan", "vegetarian", "salad", "smoky"]
     },
     {
+      "id": 12,
       "name": "Briouats",
       "price": 22.00,
       "description": "Crispy Moroccan pastries filled with spiced minced meat and herbs.",
       "image": "briouats.jpg",
-      "category": "starters"
+      "category": "starters",
+      "rating": 4.7,
+      "prepareTime": "18 mins",
+      "available": true,
+      "tags": ["moroccan", "pastry", "crispy", "traditional"]
     },
     {
+      "id": 13,
       "name": "Moroccan Mint Tea",
       "price": 8.00,
       "description": "Traditional green tea infused with fresh mint and sugar.",
       "image": "mintTea.jpg",
-      "category": "drinks"
+      "category": "drinks",
+      "rating": 4.8,
+      "prepareTime": "3 mins",
+      "available": true,
+      "tags": ["moroccan", "tea", "refreshing", "traditional"]
     },
     {
+      "id": 14,
       "name": "Fresh Orange Juice",
       "price": 10.00,
       "description": "Freshly squeezed Moroccan oranges, served chilled.",
       "image": "orangeJuice.jpg",
-      "category": "drinks"
+      "category": "drinks",
+      "rating": 4.6,
+      "prepareTime": "5 mins",
+      "available": true,
+      "tags": ["juice", "fresh", "healthy", "citrus"]
     },
     {
+      "id": 15,
       "name": "Chebakia",
       "price": 12.00,
       "description": "Traditional Moroccan sesame cookie fried and coated with honey.",
       "image": "chebakia.jpg",
-      "category": "desserts"
+      "category": "desserts",
+      "rating": 4.7,
+      "prepareTime": "6 mins",
+      "available": true,
+      "tags": ["moroccan", "cookie", "sweet", "honey", "traditional"]
     },
     {
+      "id": 16,
       "name": "Sellou",
       "price": 14.00,
       "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
       "image": "sellou.jpg",
-      "category": "desserts"
+      "category": "desserts",
+      "rating": 4.6,
+      "prepareTime": "8 mins",
+      "available": true,
+      "tags": ["moroccan", "traditional", "sweet", "nuts", "honey"]
     }
   ]
 }
