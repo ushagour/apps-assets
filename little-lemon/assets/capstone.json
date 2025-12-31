@@ -137,12 +137,17 @@
       "name": "Briouats",
       "price": 22.00,
       "description": "Crispy Moroccan pastries filled with spiced minced meat and herbs.",
+<<<<<<< HEAD
       "image": "briouats.jpg",
       "category": "starters",
       "rating": 4.7,
       "prepareTime": "18 mins",
       "available": true,
       "tags": ["moroccan", "pastry", "crispy", "traditional"]
+=======
+      "image": "Briouats.jpg",
+      "category": "starters"
+>>>>>>> 2a418d0ba824dcf6d732c2eec167f78438666923
     },
     {
       "id": 13,
@@ -173,24 +178,34 @@
       "name": "Chebakia",
       "price": 12.00,
       "description": "Traditional Moroccan sesame cookie fried and coated with honey.",
+<<<<<<< HEAD
       "image": "chebakia.jpg",
       "category": "desserts",
       "rating": 4.7,
       "prepareTime": "6 mins",
       "available": true,
       "tags": ["moroccan", "cookie", "sweet", "honey", "traditional"]
+=======
+      "image": "Chebakia.jpg",
+      "category": "desserts"
+>>>>>>> 2a418d0ba824dcf6d732c2eec167f78438666923
     },
     {
       "id": 16,
       "name": "Sellou",
       "price": 14.00,
       "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
+<<<<<<< HEAD
       "image": "sellou.jpg",
       "category": "desserts",
       "rating": 4.6,
       "prepareTime": "8 mins",
       "available": true,
       "tags": ["moroccan", "traditional", "sweet", "nuts", "honey"]
+=======
+      "image": "Sellou.jpg",
+      "category": "desserts"
+>>>>>>> 2a418d0ba824dcf6d732c2eec167f78438666923
     }
   ]
 }
