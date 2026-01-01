@@ -143,8 +143,7 @@
       "prepareTime": "18 mins",
       "available": true,
       "tags": ["moroccan", "pastry", "crispy", "traditional"]
-      "image": "Briouats.jpg",
-      "category": "starters"
+    
     },
     {
       "id": 13,
@@ -181,8 +180,7 @@
       "prepareTime": "6 mins",
       "available": true,
       "tags": ["moroccan", "cookie", "sweet", "honey", "traditional"]
-      "image": "Chebakia.jpg",
-      "category": "desserts"
+    
     },
     {
       "id": 16,
@@ -195,8 +193,7 @@
       "prepareTime": "8 mins",
       "available": true,
       "tags": ["moroccan", "traditional", "sweet", "nuts", "honey"]
-      "image": "Sellou.jpg",
-      "category": "desserts"
+ 
     }
   ]
 }
