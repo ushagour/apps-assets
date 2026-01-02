@@ -145,20 +145,9 @@
       "tags": ["moroccan", "pastry", "crispy", "traditional"]
     
     },
+
     {
       "id": 13,
-      "name": "Moroccan Mint Tea",
-      "price": 8.00,
-      "description": "Traditional green tea infused with fresh mint and sugar.",
-      "image": "mintTea.jpg",
-      "category": "drinks",
-      "rating": 4.8,
-      "prepareTime": "3 mins",
-      "available": true,
-      "tags": ["moroccan", "tea", "refreshing", "traditional"]
-    },
-    {
-      "id": 14,
       "name": "Fresh Orange Juice",
       "price": 10.00,
       "description": "Freshly squeezed Moroccan oranges, served chilled.",
@@ -170,7 +159,7 @@
       "tags": ["juice", "fresh", "healthy", "citrus"]
     },
     {
-      "id": 15,
+      "id": 14,
       "name": "Chebakia",
       "price": 12.00,
       "description": "Traditional Moroccan sesame cookie fried and coated with honey.",
@@ -183,7 +172,7 @@
     
     },
     {
-      "id": 16,
+      "id": 15,
       "name": "Sellou",
       "price": 14.00,
       "description": "Traditional Moroccan sweet made from roasted flour, almonds, sesame seeds, and honey.",
